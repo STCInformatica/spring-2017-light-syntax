@@ -1,0 +1,27 @@
+{
+    "name": "margaret2.spring-2017-light-theme",
+    "title": "Spring 2017 Light Theme",
+    "description": "Fresh, calming theme based on Pantone's Spring 2017 colors",
+    "homepage": "https://github.com/margaret2/spring-2017-light-syntax",
+    "version": "1.0.0",
+    "author": {
+        "name": "Margaret H.",
+        "url": "https://github.com/margaret2"
+    },
+    "theme": {
+        "file": "theme.less",
+        "addModeClass": true
+    },
+    "keywords": [
+        "theme",
+        "pantone",
+        "colorful",
+        "light",
+        "bright",
+        "aqua",
+        "spring",
+        "yellow",
+        "green",
+        "pink"
+    ]
+}
